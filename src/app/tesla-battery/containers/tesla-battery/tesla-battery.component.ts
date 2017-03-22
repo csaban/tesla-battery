@@ -34,6 +34,7 @@ import { BatteryService } from '../../tesla-battery.service';
                     formControlName="climate">
                 </tesla-climate>
             </div>
+            <tesla-wheels formControlName="wheels"></tesla-wheels>
         </div>        
         <div class="tesla-battery__notice">
         <p>
